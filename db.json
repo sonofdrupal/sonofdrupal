@@ -84,29 +84,5 @@
         }
       ]
     }
-  ],
-  "chicken": [
-    {
-      "id": 1,
-      "name": "Solo Pack",
-      "amount": 326
-    },
-    {
-      "id": 2,
-      "name": "Buddy Pack",
-      "amount": 519
-    },
-    {
-      "id": 3,
-      "name": "Family Pack",
-      "amount": 698
-    }
-  ],
-  "pasta": [
-    {
-      "id": 1,
-      "name": "Tuna Mediterranean Pasta",
-      "amount":  237
-    }
-  ]
+  ]  
 }
