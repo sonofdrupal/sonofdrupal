@@ -3,16 +3,47 @@
     {
       "pizza": [
         {
-          "id": 1,
-          "title": "Post 1"
-        },
-        {
-          "id": 2,
-          "title": "Post 2"
-        },
-        {
-          "id": 3,
-          "title": "Post 3"
+          "regular-items": [
+            {
+              "id": 1,
+              "name": "Cheesy Chicke",
+              "description": "A medley of Quorn Chicken-style chunks, onions, bell peppers, Cheddar cheese, and cheese sauce.",
+              "price": [
+                {
+                  "thin-crust": [
+                    {
+                      "type": "Regular",
+                      "amount": 313.00
+                    },
+                    {
+                      "type": "Large",
+                      "amount": 491.00
+                    },
+                    {
+                      "type": "Party",
+                      "amount": 638.00
+                    }
+                  ]
+                },
+                {
+                  "hand-toss": [
+                    {
+                      "type": "Regular",
+                      "amount": 359.00
+                    },
+                    {
+                      "type": "Large",
+                      "amount": 536.00
+                    },
+                    {
+                      "type": "Party",
+                      "amount": 689.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]          
         }
       ],
       "starters": [
