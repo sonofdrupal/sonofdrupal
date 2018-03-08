@@ -63,7 +63,50 @@
     {
       "id": 1,
       "name": "Seafood Chowder / Chili Con Carne",
-      "amount":  115
+      "amount": 115
+    },
+    {
+      "id": 2,
+      "name": "Creamy Mushroom Soup / Chicken n Corn Soup",
+      "amount": 91
+    },
+    {
+      "id": 3,
+      "name": "Chef's Choice Salad",
+      "amount": [
+        {
+          "type": "Solo",
+          "value": 183
+        },
+        {
+          "type": "Family",
+          "value": 310
+        }
+      ]
+    }
+  ],
+  "chicken": [
+    {
+      "id": 1,
+      "name": "Solo Pack",
+      "amount": 326
+    },
+    {
+      "id": 2,
+      "name": "Buddy Pack",
+      "amount": 519
+    },
+    {
+      "id": 3,
+      "name": "Family Pack",
+      "amount": 698
+    }
+  ],
+  "pasta": [
+    {
+      "id": 1,
+      "name": "Tuna Mediterranean Pasta",
+      "amount":  237
     }
   ]
 }
