@@ -26,7 +26,7 @@
   "best-seller-items": [
     {
       "id": 1,
-      "name": "Manager's Choice"
+      "name": "Manager\\'s Choice"
     }
   ],
   "starters": [
@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "name": "Captain's Choice"
+      "name": "Captain\\'s Choice"
     }
   ]
 }
