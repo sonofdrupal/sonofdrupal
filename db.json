@@ -29,7 +29,16 @@
       "name": "Manager's Choice"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "starters": [
+    {
+      "id": 1,
+      "name": "Buffalo Wings",
+      "amount": [
+        {
+          "type": "Solo",
+          "value":  260
+        }
+      ]
+    }
+  ]   
 }
