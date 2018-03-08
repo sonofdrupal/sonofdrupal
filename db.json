@@ -56,7 +56,14 @@
     {
       "id": 3,
       "name": "Captain's Crunch",
-      "amount":  454
+      "amount": 454
     }
-  ]   
+  ],
+  "soup-salad": [
+    {
+      "id": 1,
+      "name": "Seafood Chowder / Chili Con Carne",
+      "amount":  115
+    }
+  ]
 }
