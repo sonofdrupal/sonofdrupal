@@ -1,7 +1,7 @@
 {
   "shakeys": [
     {
-      "posts": [
+      "pizza": [
         {
           "id": 1,
           "title": "Post 1"
@@ -15,7 +15,7 @@
           "title": "Post 3"
         }
       ],
-      "comments": [
+      "starters": [
         {
           "id": 1,
           "body": "some comment",
@@ -27,7 +27,7 @@
           "postId": 1
         }
       ],
-      "profile": {
+      "soup-and-salad": {
         "name": "typicode"
       }
     }
