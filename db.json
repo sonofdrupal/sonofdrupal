@@ -36,9 +36,27 @@
       "amount": [
         {
           "type": "Solo",
-          "value":  260
+          "value": 260
+        },
+        {
+          "type": "Buddy",
+          "value": 473
+        },
+        {
+          "type": "Family",
+          "value": 667
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Calamari Crunch",
+      "amount": 336
+    },
+    {
+      "id": 3,
+      "name": "Captain's Crunch",
+      "amount":  454
     }
   ]   
 }
