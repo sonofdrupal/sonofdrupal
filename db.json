@@ -12,35 +12,5 @@
       "id": 3,
       "name": "Belly Buster"
     }
-  ],
-  "new-items": [
-    {
-      "id": 1,
-      "name": "Louisiana Shrimp Pizza"
-    },
-    {
-      "id": 2,
-      "name": "Scallop Primo Pizza"
-    }
-  ],
-  "best-seller-items": [
-    {
-      "id": 1,
-      "name": "Manager\\'s Choice"
-    }
-  ],
-  "starters": [
-    {
-      "id": 1,
-      "name": "Buffalo Wings"
-    },
-    {
-      "id": 2,
-      "name": "Calamari Crunch"
-    },
-    {
-      "id": 3,
-      "name": "Captain\\'s Choice"
-    }
-  ]
+  ]  
 }
