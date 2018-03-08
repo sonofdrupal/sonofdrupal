@@ -1,15 +1,33 @@
 {
   "regular-items": [
-    { "id": 1, "name": "Cheesy Chicken" },
-    { "id": 2, "name": "Texas Chicken BBQ" },
-    { "id": 3, "name": "Belly Buster" }
+    {
+      "id": 1,
+      "name": "Cheesy Chicken"
+    },
+    {
+      "id": 2,
+      "name": "Texas Chicken BBQ"
+    },
+    {
+      "id": 3,
+      "name": "Belly Buster"
+    }
   ],
   "new-items": [
-    { "id": 1, "name": "Louisiana Shrimp Pizza"},
-    { "id": 2, "name": "Scallop Primo Pizza"}
+    {
+      "id": 1,
+      "name": "Louisiana Shrimp Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Scallop Primo Pizza"
+    }
   ],
   "best-seller-items": [
-    { "id":  1, "name":  "Manager's Choice"}
+    {
+      "id": 1,
+      "name": "Manager's Choice"
+    }
   ],
   "starters": [
     {
@@ -23,107 +41,6 @@
     {
       "id": 3,
       "name": "Captain's Choice"
-    }
-  ],
-  "soup-salad": [
-    {
-      "id": 1,
-      "name": "Seafood Chowder"
-    },
-    {
-      "id": 2,
-      "name": "Creamy Mushroom Soup / Chicken 'N' Corn Soup"
-    }
-  ],
-  "chicken": [
-    {
-      "id": 1,
-      "name": "Solo Pack"
-    },
-    {
-      "id": 2,
-      "name": "Buddy Pack"
-    }
-  ],
-  "pasta": [
-    {
-      "id": 1,
-      "name": "Tuna Mediterranean Pasta",
-      "price": 237
-    },
-    {
-      "id": 2,
-      "name": "Carbonara Supreme",
-      "price": [
-        {
-          "type": "Solo",
-          "amount": 213
-        },
-        {
-          "type": "Platter",
-          "amount":  420
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Classic Spaghetti",
-      "price": [
-        {
-          "type": "Solo",
-          "amount": 189
-        },
-        {
-          "type": "Platter",
-          "amount": 383
-        }
-      ]
-    }
-  ],
-  "wholesome-combos": [
-    {
-      "id": 1,
-      "name": "Bunch of Lunch",
-      "price":  206
-    },
-    {
-      "id": 2,
-      "name": "Hero Classic",
-      "price": 163
-    }
-  ],
-  "group-meals": [
-    {
-      "id": 1,
-      "name": "Lucy 777 Promo"
-      "price":  777
-    },
-    {
-      "id": 2,
-      "name": "2018 Meal Deal"
-      "price":  2018
-    },
-    {
-      "id": 3,
-      "name": "Monster Meal Deal",
-      "price":  2864
-    }
-  ],
-  "desserts": [
-    {
-      "id": 1,
-      "name": "Banana Peach Surprise",
-      "price": 199
-    },
-    {
-      "id": 2,
-      "name": "Banana Split",
-      "price":  179
-    },
-    {
-      "id": 3,
-      "name": "Marble Brownie Ala Mode",
-      "price":  180
     }
   ]
 }
