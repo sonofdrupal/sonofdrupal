@@ -1,66 +1,129 @@
 {
-  "shakeys": [
+  "regular-items": [
+    { "id": 1, "name": "Cheesy Chicken" },
+    { "id": 2, "name": "Texas Chicken BBQ" },
+    { "id": 3, "name": "Belly Buster" }
+  ],
+  "new-items": [
+    { "id": 1, "name": "Louisiana Shrimp Pizza"},
+    { "id": 2, "name": "Scallop Primo Pizza"}
+  ],
+  "best-seller-items": [
+    { "id":  1, "name":  "Manager's Choice"}
+  ],
+  "starters": [
     {
-      "pizza": [
+      "id": 1,
+      "name": "Buffalo Wings"
+    },
+    {
+      "id": 2,
+      "name": "Calamari Crunch"
+    },
+    {
+      "id": 3,
+      "name": "Captain's Choice"
+    }
+  ],
+  "soup-salad": [
+    {
+      "id": 1,
+      "name": "Seafood Chowder"
+    },
+    {
+      "id": 2,
+      "name": "Creamy Mushroom Soup / Chicken 'N' Corn Soup"
+    }
+  ],
+  "chicken": [
+    {
+      "id": 1,
+      "name": "Solo Pack"
+    },
+    {
+      "id": 2,
+      "name": "Buddy Pack"
+    }
+  ],
+  "pasta": [
+    {
+      "id": 1,
+      "name": "Tuna Mediterranean Pasta",
+      "price": 237
+    },
+    {
+      "id": 2,
+      "name": "Carbonara Supreme",
+      "price": [
         {
-          "regular-items": [
-            {
-              "id": 1,
-              "name": "Cheesy Chicke",
-              "description": "A medley of Quorn Chicken-style chunks, onions, bell peppers, Cheddar cheese, and cheese sauce.",
-              "price": [
-                {
-                  "thin-crust": [
-                    {
-                      "type": "Regular",
-                      "amount": 313.00
-                    },
-                    {
-                      "type": "Large",
-                      "amount": 491.00
-                    },
-                    {
-                      "type": "Party",
-                      "amount": 638.00
-                    }
-                  ]
-                },
-                {
-                  "hand-toss": [
-                    {
-                      "type": "Regular",
-                      "amount": 359.00
-                    },
-                    {
-                      "type": "Large",
-                      "amount": 536.00
-                    },
-                    {
-                      "type": "Party",
-                      "amount": 689.00
-                    }
-                  ]
-                }
-              ]
-            }
-          ]          
-        }
-      ],
-      "starters": [
-        {
-          "id": 1,
-          "body": "some comment",
-          "postId": 1
+          "type": "Solo",
+          "amount": 213
         },
         {
-          "id": 2,
-          "body": "some comment",
-          "postId": 1
+          "type": "Platter",
+          "amount":  420
         }
-      ],
-      "soup-and-salad": {
-        "name": "typicode"
-      }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Classic Spaghetti",
+      "price": [
+        {
+          "type": "Solo",
+          "amount": 189
+        },
+        {
+          "type": "Platter",
+          "amount": 383
+        }
+      ]
+    }
+  ],
+  "wholesome-combos": [
+    {
+      "id": 1,
+      "name": "Bunch of Lunch",
+      "price":  206
+    },
+    {
+      "id": 2,
+      "name": "Hero Classic",
+      "price": 163
+    }
+  ],
+  "group-meals": [
+    {
+      "id": 1,
+      "name": "Lucy 777 Promo"
+      "price":  777
+    },
+    {
+      "id": 2,
+      "name": "2018 Meal Deal"
+      "price":  2018
+    },
+    {
+      "id": 3,
+      "name": "Monster Meal Deal",
+      "price":  2864
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "name": "Banana Peach Surprise",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "name": "Banana Split",
+      "price":  179
+    },
+    {
+      "id": 3,
+      "name": "Marble Brownie Ala Mode",
+      "price":  180
     }
   ]
 }
