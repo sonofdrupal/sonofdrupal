@@ -1,12 +1,33 @@
 {
   "regular-items": [
-    { "id": 1, "name": "Cheesy Chicken" },
-    { "id": 2, "name": "Texas Chicken BBQ" },
-    { "id": 3, "name": "Belly Buster" }
+    {
+      "id": 1,
+      "name": "Cheesy Chicken"
+    },
+    {
+      "id": 2,
+      "name": "Texas Chicken BBQ"
+    },
+    {
+      "id": 3,
+      "name": "Belly Buster"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "new-items": [
+    {
+      "id": 1,
+      "name": "Louisiana Shrimp Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Scallop Primo Pizza"
+    }
+  ],
+  "bestseller": [
+    {
+      "id": 1,
+      "name": "Louisiana Shrimp Pizza"
+    }
   ],
   "profile": {
     "name": "typicode"
